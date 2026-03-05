@@ -7,7 +7,7 @@
 
 Design and implementation of a **Class D audio amplifier** capable of driving a 1700 W subwoofer. The amplifier achieves >90% efficiency using PWM-based switching and a full-bridge (H-bridge) MOSFET topology.
 
-The full project report is available in [`rapport_ampli_1A.pdf`](./rapport_ampli_1A.pdf).
+The full project report is available in [`Rapport_de_soutenance.pdf`](./Rapport_de_soutenance.pdf).
 
 ---
 
