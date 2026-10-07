@@ -91,9 +91,8 @@ Supervised by **Pietro Maris Ferreira** — CentraleSupélec
 
 ---
 
-## What I Would Do Differently
+## Next steps
 
-- Add a proper **LC low-pass filter** (instead of relying on the speaker's inductance)
 - Implement a **feedback loop** to reduce harmonic distortion
 - Design a **custom PCB** to replace the breadboard prototype
 - Use a **switching power supply** for better efficiency and voltage regulation
